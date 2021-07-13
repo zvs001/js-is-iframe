@@ -1,6 +1,6 @@
 {
   "name": "is-iframe",
-  "version": "0.0.0-rc1",
+  "version": "0.0.1",
   "description": "Check if a website is running inside an iframe",
   "main": "index.js",
   "keywords": [
@@ -18,7 +18,7 @@
   "license": "MIT",
   "homepage": "https://github.com/zvs001/js-is-iframe#readme",
   "repository": {
-    "url": "https://github.com/zvs001/js-is-iframe#readme"
+    "url": "https://github.com/zvs001/js-is-iframe"
   },
   "dependencies": {},
   "devDependencies": {

@@ -5,7 +5,6 @@ Library helps to identify if a website is running inside an iframe.
 
 # Usage
 
-Open file explorer and get file:
 ```typescript
 import { isInIFrame } from 'is-iframe'
 // or 
